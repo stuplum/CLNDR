@@ -3,7 +3,6 @@
 .idea
 
 /node_modules
-/example/test/
 
 commit_checklist.md
 
